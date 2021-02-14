@@ -2,7 +2,6 @@ package cuentas;
 public class Main {
 	
 	/**
-	 * 
 	 * @author Antonio Piñero Sánchez
 	 */
 
